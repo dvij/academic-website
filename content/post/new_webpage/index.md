@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "New_webpage"
+title: "JAX library for neural network verification"
 subtitle: ""
-summary: "JAX library for neural network verification"
+summary: ""
 authors: []
 tags: []
 categories: []
