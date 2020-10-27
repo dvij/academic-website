@@ -36,5 +36,6 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Transactions on Power Systems*'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8454506'
 doi: 10.1109/TPWRS.2018.2868752
 ---
