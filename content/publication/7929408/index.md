@@ -10,7 +10,7 @@ authors:
 - S. Low
 tags: []
 categories: []
-date: '2017-00-01'
+date: '2017-05-16'
 lastmod: 2020-10-27T17:35:30Z
 featured: false
 draft: false
@@ -34,5 +34,6 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Transactions on Smart Grid*'
+url_pdf: 'https://ieeexplore.ieee.org/document/7929408'
 doi: 10.1109/TSG.2017.2704922
 ---
