@@ -12,7 +12,7 @@ tags: []
 categories: []
 date: '2014-07-10'
 lastmod: 2020-10-27T17:35:31Z
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -35,5 +35,5 @@ publication_types:
 abstract: ''
 url_pdf: 'https://arxiv.org/abs/1406.0554v1'
 publication: '*Proceedings of the Thirtieth Conference Annual Conference on Uncertainty
-  in Artificial Intelligence (UAI-14)*'
+  in Artificial Intelligence (UAI-14)*, Facebook best student paper award'
 ---
