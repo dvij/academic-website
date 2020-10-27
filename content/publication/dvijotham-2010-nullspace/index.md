@@ -9,7 +9,7 @@ authors:
 - Maryam Fazel
 tags: []
 categories: []
-date: '2010-01-01'
+date: '2010-03-14'
 lastmod: 2020-10-27T17:35:30Z
 featured: false
 draft: false
@@ -32,6 +32,7 @@ publishDate: '2020-10-27T17:35:30.466595Z'
 publication_types:
 - '1'
 abstract: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/5495918'
 publication: '*2010 IEEE International Conference on Acoustics, Speech and Signal
   Processing*'
 ---
