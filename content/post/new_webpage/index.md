@@ -3,7 +3,7 @@
 
 title: "New_webpage"
 subtitle: ""
-summary: "We have recently released our neural network verification code at https://github.com/deepmind/jax_verify, featuring our latest algorithms from NeurIPS 2020 papers. Be sure to check it out!"
+summary: "JAX library for neural network verification"
 authors: []
 tags: []
 categories: []
@@ -26,4 +26,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+We have recently released our neural network verification code at https://github.com/deepmind/jax_verify, featuring our latest algorithms from NeurIPS 2020 papers. Be sure to check it out!
 ---
