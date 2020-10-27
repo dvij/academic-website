@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: On the Effectiveness of Interval Bound Propagation for Training Verifiably
-  Robust Models
+title: Scalable Verified Training for Provably Robust Image Classification
 subtitle: ''
 summary: ''
 authors:
@@ -40,5 +39,6 @@ publishDate: '2020-10-27T17:35:32.598879Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*ICCV*'
+url_pdf: 'https://arxiv.org/abs/1810.12715'
+publication: '*International Conference on Computer Vision (ICCV), 2019*'
 ---
