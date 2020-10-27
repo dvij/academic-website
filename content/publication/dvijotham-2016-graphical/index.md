@@ -12,7 +12,7 @@ authors:
 - Sidhant Misra
 tags: []
 categories: []
-date: '2016-01-01'
+date: '2016-09-13'
 lastmod: 2020-10-27T17:35:32Z
 featured: false
 draft: false
@@ -35,5 +35,6 @@ publishDate: '2020-10-27T17:35:31.888947Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Constraints*'
+url_pdf: 'https://link.springer.com/article/10.1007/s10601-016-9253-y'
+publication: '*Constraints Journal*'
 ---
