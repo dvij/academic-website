@@ -3,7 +3,7 @@
 
 title: "RAAIS 2020"
 event:
-event_url:
+event_url: 'https://raais.co/speakers-2020'
 location:
 address:
   street:
@@ -27,7 +27,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -50,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: 'https://www.youtube.com/watch?v=wT58_0V1-c4&list=PLht6tyws1YpRPPp0alm1v5Ntm2s9JcRUS&index=4'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
