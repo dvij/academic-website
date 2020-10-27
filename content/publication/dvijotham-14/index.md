@@ -35,5 +35,5 @@ publication_types:
 abstract: ''
 url_pdf: 'https://arxiv.org/abs/1406.0554v1'
 publication: '*Proceedings of the Thirtieth Conference Annual Conference on Uncertainty
-  in Artificial Intelligence (UAI-14)*, Facebook best student paper award'
+  in Artificial Intelligence (UAI-14)*, **Facebook best student paper award**'
 ---
