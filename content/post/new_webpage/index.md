@@ -27,5 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-We have recently released our neural network verification code at https://github.com/deepmind/jax_verify, featuring our latest algorithms from NeurIPS 2020 papers. Be sure to check it out!
 ---
+We have recently released our neural network verification code at https://github.com/deepmind/jax_verify, featuring our latest algorithms from NeurIPS 2020 papers. Be sure to check it out!
