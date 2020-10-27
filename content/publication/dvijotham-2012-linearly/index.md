@@ -9,7 +9,7 @@ authors:
 - Emo Todorov
 tags: []
 categories: []
-date: '2012-01-01'
+date: '2012-06-29'
 lastmod: 2020-10-27T17:35:30Z
 featured: false
 draft: false
@@ -32,5 +32,6 @@ publishDate: '2020-10-27T17:35:30.827771Z'
 publication_types:
 - '1'
 abstract: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/6315632'
 publication: '*2012 American Control Conference (ACC)*'
 ---
