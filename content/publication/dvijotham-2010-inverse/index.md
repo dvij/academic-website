@@ -9,7 +9,7 @@ authors:
 - Emanuel Todorov
 tags: []
 categories: []
-date: '2010-01-01'
+date: '2010-07-10'
 lastmod: 2020-10-27T17:35:28Z
 featured: false
 draft: false
@@ -32,6 +32,7 @@ publishDate: '2020-10-27T17:35:28.706744Z'
 publication_types:
 - '1'
 abstract: ''
+url_pdf: 'https://openreview.net/forum?id=BJEwwj-dbS'
 publication: '*Proceedings of the 27th International Conference on Machine Learning
   (ICML-10)*'
 ---
