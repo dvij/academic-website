@@ -15,7 +15,7 @@ tags:
   problems;Continuation methods;Fritz John conditions;Optimal power flow"'
 categories: []
 date: '2017-00-01'
-lastmod: 2020-10-27T17:25:01Z
+lastmod: 2020-10-27T17:32:13Z
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:25:01.165630Z'
+publishDate: '2020-10-27T17:32:13.028540Z'
 publication_types:
 - '2'
 abstract: ''

@@ -18,7 +18,7 @@ tags:
   algorithms;Load flow"'
 categories: []
 date: '2018-06-01'
-lastmod: 2020-10-27T17:23:49Z
+lastmod: 2020-10-27T17:32:11Z
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:24:59.198359Z'
+publishDate: '2020-10-27T17:32:11.245282Z'
 publication_types:
 - '1'
 abstract: ''

@@ -15,7 +15,7 @@ tags:
   curtailment;renewables"'
 categories: []
 date: '2017-00-01'
-lastmod: 2020-10-27T17:25:05Z
+lastmod: 2020-10-27T17:32:14Z
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:25:04.890033Z'
+publishDate: '2020-10-27T17:32:14.446680Z'
 publication_types:
 - '2'
 abstract: ''
