@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "NASA NFM 2020"
+title: "UAI 2019"
 event:
-event_url:
+event_url: 'http://auai.org/uai2019/'
 location:
 address:
   street:
