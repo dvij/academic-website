@@ -17,7 +17,7 @@ authors:
 - Percy Liang
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2020-12-10'
 lastmod: 2020-10-27T17:35:33Z
 featured: false
 draft: false
@@ -40,5 +40,6 @@ publishDate: '2020-10-27T17:35:33.308987Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Advances in Neural Information Processing Systems*'
+url_pdf: https://arxiv.org/abs/2010.11645
+publication: '*Advances in Neural Information Processing Systems, 2020*'
 ---
