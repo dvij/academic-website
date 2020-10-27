@@ -10,7 +10,7 @@ authors:
 - Leonard Schulman
 tags: []
 categories: []
-date: '2017-01-01'
+date: '2017-01-10'
 lastmod: 2020-10-27T17:35:31Z
 featured: false
 draft: false
@@ -33,6 +33,7 @@ publishDate: '2020-10-27T17:35:31.357558Z'
 publication_types:
 - '1'
 abstract: ''
+url_pdf: 'https://authors.library.caltech.edu/74305/'
 publication: '*Proceedings of the Twenty-Seventh Annual ACM-SIAM Symposium on Discrete
   Algorithms, SODA 2017, Barcelona, Spain, January 10-12, 2017*'
 ---
