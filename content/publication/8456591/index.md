@@ -13,7 +13,7 @@ tags:
 - '"Power system stability;Numerical stability;Stability criteria;Thermal stability;Smart
   grids;Indexes;Inner approximation;power flow;voltage stability."'
 categories: []
-date: '2018-00-01'
+date: '2018-09-06'
 lastmod: 2020-10-27T17:35:28Z
 featured: false
 draft: false
@@ -36,6 +36,7 @@ publishDate: '2020-10-27T17:35:28.165595Z'
 publication_types:
 - '2'
 abstract: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/8456591'
 publication: '*IEEE Transactions on Smart Grid*'
 doi: 10.1109/TSG.2018.2869032
 ---
