@@ -11,7 +11,7 @@ role: Staff Research Scientist, DeepMind
 # Organizations/Affiliations
 organizations:
 - name: DeepMind
-  url: "deepmind.com"
+  url: "https://deepmind.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are in developing verifiable guarantees for complex systems, with a current focus on systems arising from deep learning
@@ -60,6 +60,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Krishnamurthy (Dj) Dvijotham is a staff research scientist at DeepMind. His research interests include developing formal techniques to reason about the behavior of complex systems, with a particular focus on systems built using deep learning.
