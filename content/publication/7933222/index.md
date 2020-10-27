@@ -34,6 +34,7 @@ projects: []
 publishDate: '2020-10-27T17:35:30.112571Z'
 publication_types:
 - '2'
+url_pdf: 'https://ieeexplore.ieee.org/document/7898782'
 abstract: ''
 publication: '*IEEE Transactions on Power Systems*'
 doi: 10.1109/TPWRS.2017.2707925
