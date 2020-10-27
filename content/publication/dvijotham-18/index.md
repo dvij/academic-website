@@ -37,5 +37,5 @@ publication_types:
 abstract: ''
 url_pdf: 'https://arxiv.org/abs/1803.06567'
 publication: '*Proceedings of the Thirty-Fourth Conference Annual Conference on Uncertainty
-  in Artificial Intelligence (UAI-18)*'
+  in Artificial Intelligence (UAI-18)*, **Best paper award**'
 ---
