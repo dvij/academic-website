@@ -3,13 +3,13 @@
 
 title: "New_webpage"
 subtitle: ""
-summary: ""
+summary: "We have recently released our neural network verification code at https://github.com/deepmind/jax_verify, featuring our latest algorithms from NeurIPS 2020 papers. Be sure to check it out!"
 authors: []
 tags: []
 categories: []
 date: 2020-10-27T19:40:49Z
 lastmod: 2020-10-27T19:40:49Z
-featured: false
+featured: true
 draft: false
 
 # Featured image
