@@ -14,7 +14,7 @@ authors:
 - Pushmeet Kohli
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2020-05-20'
 lastmod: 2020-10-27T17:35:29Z
 featured: false
 draft: false
@@ -37,6 +37,6 @@ publishDate: '2020-10-27T17:35:29.405103Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*International Conference on Learning Representations*'
+publication: '*International Conference on Learning Representations, 2020*'
 url_pdf: https://openreview.net/forum?id=SyxhVkrYvr
 ---
