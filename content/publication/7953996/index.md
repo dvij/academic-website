@@ -13,7 +13,7 @@ tags:
 - '"Mathematical model;Power system stability;Reactive power;Stability analysis;Substations;Tools;Voltage
   control;Power systems;smart grid;stability of nonlinear systems"'
 categories: []
-date: '2017-10-01'
+date: '2017-06-20'
 lastmod: 2020-10-27T17:35:29Z
 featured: false
 draft: false
@@ -37,5 +37,6 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Control Systems Letters*'
+url_pdf: 'https://ieeexplore.ieee.org/document/7953996'
 doi: 10.1109/LCSYS.2017.2717578
 ---
