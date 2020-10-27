@@ -35,5 +35,6 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Transactions on Control of Network Systems*'
+url_pdf: 'https://ieeexplore.ieee.org/document/8771227'
 doi: 10.1109/TCNS.2019.2930896
 ---
