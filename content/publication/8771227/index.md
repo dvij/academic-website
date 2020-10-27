@@ -9,12 +9,10 @@ authors:
 - H. D. Nguyen
 - K. Dvijotham
 - K. Turitsyn
-tags:
-- '"Mathematical model;Security;Power grids;Power transmission lines;Control systems;Manifolds;Reactive
-  power;AC power flow equations;convex restriction;power grid"'
+tags: []
 categories: []
 date: '2019-09-01'
-lastmod: 2020-10-27T17:32:16Z
+lastmod: 2020-10-27T17:35:33Z
 featured: false
 draft: false
 
@@ -32,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:32:15.871524Z'
+publishDate: '2020-10-27T17:35:32.950891Z'
 publication_types:
 - '2'
 abstract: ''

@@ -8,13 +8,10 @@ authors:
 - Y. Tang
 - Krishnamurthy Dvijotham
 - S. Low
-tags:
-- '"Computational modeling;Cost function;Heuristic algorithms;Mathematical model;Power
-  system stability;Reactive power;Real-time systems;Optimal power flow;quasi-Newton
-  method;time-varying optimization"'
+tags: []
 categories: []
 date: '2017-00-01'
-lastmod: 2020-10-27T17:32:13Z
+lastmod: 2020-10-27T17:35:30Z
 featured: false
 draft: false
 
@@ -32,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:32:12.856065Z'
+publishDate: '2020-10-27T17:35:29.937535Z'
 publication_types:
 - '2'
 abstract: ''

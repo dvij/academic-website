@@ -14,7 +14,7 @@ tags:
   grids;Indexes;Inner approximation;power flow;voltage stability."'
 categories: []
 date: '2018-00-01'
-lastmod: 2020-10-27T17:32:11Z
+lastmod: 2020-10-27T17:35:28Z
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:32:10.898191Z'
+publishDate: '2020-10-27T17:35:28.165595Z'
 publication_types:
 - '2'
 abstract: ''

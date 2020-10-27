@@ -13,7 +13,7 @@ tags:
   approximation;solvability;nonconvexity"'
 categories: []
 date: '2018-00-01'
-lastmod: 2020-10-27T17:32:11Z
+lastmod: 2020-10-27T17:35:28Z
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:32:11.072337Z'
+publishDate: '2020-10-27T17:35:28.347914Z'
 publication_types:
 - '2'
 abstract: ''

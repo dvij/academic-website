@@ -9,13 +9,10 @@ authors:
 - Krishnamurthy Dvijotham*
 - N. Chen
 - A. Wierman
-tags:
-- '"Electricity supply industry;Energy resources;ISO;Optimization;Power measurement;Power
-  systems;Real-time systems;Aggregators;locational marginal price (LMP);market power;optimal
-  curtailment;renewables"'
+tags: []
 categories: []
 date: '2017-00-01'
-lastmod: 2020-10-27T17:32:14Z
+lastmod: 2020-10-27T17:35:31Z
 featured: false
 draft: false
 
@@ -33,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:32:14.446680Z'
+publishDate: '2020-10-27T17:35:31.530336Z'
 publication_types:
 - '2'
 abstract: ''

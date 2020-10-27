@@ -10,12 +10,10 @@ authors:
 - D. K. Molzahn
 - B. C. Lesieutre
 - Krishnamurthy Dvijotham
-tags:
-- '"Cost function;Generators;Mathematical model;Power generation;Reactive power;Search
-  problems;Continuation methods;Fritz John conditions;Optimal power flow"'
+tags: []
 categories: []
 date: '2017-00-01'
-lastmod: 2020-10-27T17:32:13Z
+lastmod: 2020-10-27T17:35:30Z
 featured: false
 draft: false
 
@@ -33,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:32:13.028540Z'
+publishDate: '2020-10-27T17:35:30.112571Z'
 publication_types:
 - '2'
 abstract: ''

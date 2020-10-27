@@ -14,7 +14,7 @@ tags:
   control;Power systems;smart grid;stability of nonlinear systems"'
 categories: []
 date: '2017-10-01'
-lastmod: 2020-10-27T17:32:12Z
+lastmod: 2020-10-27T17:35:29Z
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:32:12.681485Z'
+publishDate: '2020-10-27T17:35:29.761584Z'
 publication_types:
 - '2'
 abstract: ''

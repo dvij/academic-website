@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2008-01-01'
-lastmod: 2020-10-27T17:32:13Z
+lastmod: 2020-10-27T17:35:30Z
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:32:13.559567Z'
+publishDate: '2020-10-27T17:35:30.653041Z'
 publication_types:
 - '1'
 abstract: ''
