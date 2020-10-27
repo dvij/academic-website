@@ -10,7 +10,7 @@ authors:
 - K. Turitsyn
 tags: []
 categories: []
-date: '2017-00-01'
+date: '2017-06-29'
 lastmod: 2020-10-27T17:35:29Z
 featured: false
 draft: false
@@ -34,5 +34,6 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Control Systems Letters*'
+url_pdf: 'https://ieeexplore.ieee.org/document/7962164'
 doi: 10.1109/LCSYS.2017.2721380
 ---
