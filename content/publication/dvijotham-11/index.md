@@ -9,7 +9,7 @@ authors:
 - Emanuel Todorov
 tags: []
 categories: []
-date: '2011-01-01'
+date: '2011-07-10'
 lastmod: 2020-10-27T17:35:30Z
 featured: false
 draft: false
@@ -32,6 +32,7 @@ publishDate: '2020-10-27T17:35:30.293039Z'
 publication_types:
 - '1'
 abstract: ''
+url_pdf: 'https://arxiv.org/abs/1202.3715'
 publication: '*Proceedings of the Twenty-Seventh Conference Annual Conference on Uncertainty
   in Artificial Intelligence (UAI-11)*'
 ---
