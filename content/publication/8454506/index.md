@@ -12,7 +12,7 @@ tags:
 - '"Steady-state;Security;Optimization;Power systems;Mathematical model;Jacobian matrices;Uncertainty;Feasibility;OPF;inner
   approximation;solvability;nonconvexity"'
 categories: []
-date: '2018-00-01'
+date: '2018-09-04'
 lastmod: 2020-10-27T17:35:28Z
 featured: false
 draft: false
