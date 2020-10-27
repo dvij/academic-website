@@ -8,7 +8,7 @@ authors:
 - Krishnamurthy Dvijotham*
 tags: []
 categories: []
-date: '2014-01-01'
+date: '2014-03-14'
 lastmod: 2020-10-27T17:35:31Z
 featured: false
 draft: false
@@ -31,5 +31,6 @@ publishDate: '2020-10-27T17:35:31.005014Z'
 publication_types:
 - '7'
 abstract: ''
+url_pdf: 'https://digital.lib.washington.edu/researchworks/handle/1773/25359'
 publication: ''
 ---
