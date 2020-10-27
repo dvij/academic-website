@@ -24,7 +24,6 @@ date_format = "Jan 2006"
   location = "London, UK"
   date_start = "2017-08-07"
   date_end = ""
-  description = """
 
 [[experience]]
   title = "Controls Research Engineer"
@@ -33,7 +32,6 @@ date_format = "Jan 2006"
   location = "Richland, Washington, USA"
   date_start = "2016-08-23"
   date_end = "2017-07-08"
-  description = """
   
 [[experience]]
   title = "Postdoctoral Fellow"
@@ -42,6 +40,5 @@ date_format = "Jan 2006"
   location = "Pasadena, California, USA"
   date_start = "2014-08-01"
   date_end = "2016-08-01"
-  description = """  
 
 +++
