@@ -37,5 +37,6 @@ publishDate: '2020-10-27T17:35:27.814957Z'
 publication_types:
 - '1'
 abstract: ''
+url_pdf: 'https://arxiv.org/abs/1904.12004'
 publication: '*The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*'
 ---
