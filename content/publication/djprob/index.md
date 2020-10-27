@@ -11,7 +11,7 @@ authors:
 - Pushmeet Kohli
 tags: []
 categories: []
-date: '2018-01-01'
+date: '2018-12-10'
 lastmod: 2020-10-27T17:35:28Z
 featured: false
 draft: false
@@ -34,5 +34,5 @@ publishDate: '2020-10-27T17:35:27.988606Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Advances in Neural Information Processing Systems, SecML workshop*'
+publication: '*Advances in Neural Information Processing Systems, SecML workshop, 2018*'
 ---
