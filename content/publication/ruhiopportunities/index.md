@@ -34,6 +34,7 @@ publishDate: '2020-10-27T17:35:31.530336Z'
 publication_types:
 - '2'
 abstract: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/7898782'
 publication: '*IEEE Transactions on Smart Grid*'
 doi: 10.1109/TSG.2017.2694043
 ---
