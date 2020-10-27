@@ -12,7 +12,7 @@ authors:
 - Pushmeet Kohli
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2020-12-20'
 lastmod: 2020-10-27T17:35:33Z
 featured: false
 draft: false
@@ -35,5 +35,5 @@ publishDate: '2020-10-27T17:35:33.671275Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Advances in Neural Information Processing Systems*'
+publication: '*Advances in Neural Information Processing Systems, 2020*'
 ---
