@@ -28,4 +28,4 @@ image:
 projects: []
 
 ---
-We have recently released our neural network verification code at https://github.com/deepmind/jax_verify featuring our latest algorithms from NeurIPS 2020 papers. Be sure to check it out!
+We have released our NeurIPS papers and an accompanying JAX library for neural network verification at https://deepmind.com/research/open-source/efficient-and-tight-neural-network-verification-in-jax. Be sure to check it out!
