@@ -11,13 +11,10 @@ authors:
 - ' Dvijotham'
 - J. Zico Kolter
 tags:
-- Machine Learning (cs.LG)
-- Cryptography and Security (cs.CR)
-- 'FOS: Computer and information sciences'
-- 'FOS: Computer and information sciences'
+- ''
 categories: []
 date: '2022-01-01'
-lastmod: 2022-10-04T10:37:50-07:00
+lastmod: 2022-10-04T12:17:44-07:00
 featured: false
 draft: false
 
@@ -35,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:37:50.206524Z'
+publishDate: '2022-10-04T19:17:44.719080Z'
 publication_types:
 - '0'
 abstract: ''

@@ -10,12 +10,10 @@ authors:
 - N. Chen
 - A. Wierman
 tags:
-- Electricity supply industry;Energy resources;ISO;Optimization;Power measurement;Power
-  systems;Real-time systems;Aggregators;locational marginal price (LMP);market power;optimal
-  curtailment;renewables
+- ''
 categories: []
 date: '2017-00-01'
-lastmod: 2022-10-04T10:37:57-07:00
+lastmod: 2022-10-04T12:17:51-07:00
 featured: false
 draft: false
 
@@ -33,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:37:57.358184Z'
+publishDate: '2022-10-04T19:17:51.824239Z'
 publication_types:
 - '2'
 abstract: ''

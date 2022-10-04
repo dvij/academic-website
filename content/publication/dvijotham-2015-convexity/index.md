@@ -9,15 +9,10 @@ authors:
 - K. Dvijotham
 - M. Chertkov
 tags:
-- convex programming;failure analysis;load flow control;power system dynamic stability;power
-  transmission control;power transmission faults;power transmission reliability;predictive
-  control;MPC;OPF;convergent PF solver;convex optimization problem;dynamic stability
-  margin;model predictive control;optimum power flow;power system post-fault dynamics;power
-  transmission system;structure preserving energy function;Generators;Load modeling;Mathematical
-  model;Power system dynamics;Power system stability;Reactive power;Stability analysis
+- ''
 categories: []
 date: '2015-07-01'
-lastmod: 2022-10-04T10:37:56-07:00
+lastmod: 2022-10-04T12:17:51-07:00
 featured: false
 draft: false
 
@@ -35,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:37:56.857310Z'
+publishDate: '2022-10-04T19:17:51.334546Z'
 publication_types:
 - '1'
 abstract: ''

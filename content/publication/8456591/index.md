@@ -10,11 +10,10 @@ authors:
 - S. Yu
 - K. Turitsyn
 tags:
-- Power system stability;Numerical stability;Stability criteria;Thermal stability;Smart
-  grids;Indexes;Inner approximation;power flow;voltage stability.
+- ''
 categories: []
 date: '2018-00-01'
-lastmod: 2022-10-04T10:37:54-07:00
+lastmod: 2022-10-04T12:17:48-07:00
 featured: false
 draft: false
 
@@ -32,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:37:53.913284Z'
+publishDate: '2022-10-04T19:17:48.423226Z'
 publication_types:
 - '2'
 abstract: ''

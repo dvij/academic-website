@@ -11,11 +11,10 @@ authors:
 - B. C. Lesieutre
 - K. Dvijotham
 tags:
-- Cost function;Generators;Mathematical model;Power generation;Reactive power;Search
-  problems;Continuation methods;Fritz John conditions;Optimal power flow
+- ''
 categories: []
 date: '2017-00-01'
-lastmod: 2022-10-04T10:37:54-07:00
+lastmod: 2022-10-04T12:17:49-07:00
 featured: false
 draft: false
 
@@ -33,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:37:54.780941Z'
+publishDate: '2022-10-04T19:17:49.271089Z'
 publication_types:
 - '2'
 abstract: ''
