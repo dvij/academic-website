@@ -15,7 +15,7 @@ tags:
   problems;Continuation methods;Fritz John conditions;Optimal power flow
 categories: []
 date: '2017-00-01'
-lastmod: 2020-10-27T17:35:30Z
+lastmod: 2022-10-04T10:37:54-07:00
 featured: false
 draft: false
 
@@ -33,10 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:33:32.469464Z'
+publishDate: '2022-10-04T17:37:54.780941Z'
 publication_types:
 - '2'
-url_pdf: https://ieeexplore.ieee.org/document/7898782
 abstract: ''
 publication: '*IEEE Transactions on Power Systems*'
 doi: 10.1109/TPWRS.2017.2707925

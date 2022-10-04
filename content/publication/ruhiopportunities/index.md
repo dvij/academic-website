@@ -15,7 +15,7 @@ tags:
   curtailment;renewables
 categories: []
 date: '2017-00-01'
-lastmod: 2020-10-27T17:35:31Z
+lastmod: 2022-10-04T10:37:57-07:00
 featured: false
 draft: false
 
@@ -33,11 +33,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:33:34.953939Z'
+publishDate: '2022-10-04T17:37:57.358184Z'
 publication_types:
 - '2'
 abstract: ''
-url_pdf: https://ieeexplore.ieee.org/document/7898782
 publication: '*IEEE Transactions on Smart Grid*'
 doi: 10.1109/TSG.2017.2694043
 ---

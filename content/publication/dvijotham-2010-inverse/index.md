@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2010-01-01'
-lastmod: 2020-10-27T17:35:28Z
+lastmod: 2022-10-04T10:37:54-07:00
 featured: false
 draft: false
 
@@ -28,11 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:33:31.997392Z'
+publishDate: '2022-10-04T17:37:54.290103Z'
 publication_types:
 - '1'
 abstract: ''
-url_pdf: https://openreview.net/forum?id=BJEwwj-dbS
 publication: '*Proceedings of the 27th International Conference on Machine Learning
   (ICML-10)*'
 ---

@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2011-01-01'
-lastmod: 2020-10-27T17:35:30Z
+lastmod: 2022-10-04T10:37:55-07:00
 featured: false
 draft: false
 
@@ -28,11 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:33:32.590423Z'
+publishDate: '2022-10-04T17:37:54.909729Z'
 publication_types:
 - '1'
 abstract: ''
-url_pdf: https://arxiv.org/abs/1202.3715
 publication: '*Proceedings of the Twenty-Seventh Conference Annual Conference on Uncertainty
   in Artificial Intelligence (UAI-11)*'
 ---

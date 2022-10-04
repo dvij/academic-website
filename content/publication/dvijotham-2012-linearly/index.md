@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2012-01-01'
-lastmod: 2020-10-27T17:35:30Z
+lastmod: 2022-10-04T10:37:55-07:00
 featured: false
 draft: false
 
@@ -28,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:33:32.938628Z'
+publishDate: '2022-10-04T17:37:55.277271Z'
 publication_types:
 - '1'
 abstract: ''
-url_pdf: https://ieeexplore.ieee.org/document/6315632
 publication: '*2012 American Control Conference (ACC)*'
 ---

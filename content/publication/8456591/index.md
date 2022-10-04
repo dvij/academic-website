@@ -14,7 +14,7 @@ tags:
   grids;Indexes;Inner approximation;power flow;voltage stability.
 categories: []
 date: '2018-00-01'
-lastmod: 2020-10-27T17:35:28Z
+lastmod: 2022-10-04T10:37:54-07:00
 featured: false
 draft: false
 
@@ -32,11 +32,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:33:31.642722Z'
+publishDate: '2022-10-04T17:37:53.913284Z'
 publication_types:
 - '2'
 abstract: ''
-url_pdf: https://ieeexplore.ieee.org/document/8456591
 publication: '*IEEE Transactions on Smart Grid*'
 doi: 10.1109/TSG.2018.2869032
 ---

@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2020-10-27T17:35:31Z
+lastmod: 2022-10-04T10:37:56-07:00
 featured: false
 draft: false
 
@@ -27,10 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:33:33.982524Z'
+publishDate: '2022-10-04T17:37:56.365950Z'
 publication_types:
 - '7'
 abstract: ''
-url_pdf: https://digital.lib.washington.edu/researchworks/handle/1773/25359
 publication: ''
 ---

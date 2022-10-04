@@ -13,7 +13,7 @@ tags:
   approximation;solvability;nonconvexity
 categories: []
 date: '2018-00-01'
-lastmod: 2020-10-27T17:35:28Z
+lastmod: 2022-10-04T10:37:54-07:00
 featured: false
 draft: false
 
@@ -31,11 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:33:31.758216Z'
+publishDate: '2022-10-04T17:37:54.036787Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Transactions on Power Systems*'
-url_pdf: https://ieeexplore.ieee.org/abstract/document/8454506
 doi: 10.1109/TPWRS.2018.2868752
 ---

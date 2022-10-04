@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2020-10-27T17:35:32Z
+lastmod: 2022-10-04T10:37:57-07:00
 featured: false
 draft: false
 
@@ -31,10 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:33:35.193360Z'
+publishDate: '2022-10-04T17:37:57.616179Z'
 publication_types:
 - '2'
 abstract: ''
-url_pdf: https://link.springer.com/article/10.1007/s10601-016-9253-y
 publication: '*Constraints*'
 ---

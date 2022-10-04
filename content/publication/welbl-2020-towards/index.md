@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2020-10-27T17:35:29Z
+lastmod: 2022-10-04T10:37:52-07:00
 featured: false
 draft: false
 
@@ -33,10 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:33:30.222417Z'
+publishDate: '2022-10-04T17:37:52.442447Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*International Conference on Learning Representations*'
-url_pdf: https://openreview.net/forum?id=SyxhVkrYvr
 ---

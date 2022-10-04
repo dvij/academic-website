@@ -18,7 +18,7 @@ tags:
   algorithms;Load flow
 categories: []
 date: '2018-06-01'
-lastmod: 2020-10-27T17:35:28Z
+lastmod: 2022-10-04T10:37:54-07:00
 featured: false
 draft: false
 
@@ -36,11 +36,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:33:31.879873Z'
+publishDate: '2022-10-04T17:37:54.163632Z'
 publication_types:
 - '1'
 abstract: ''
-url_pdf: https://ieeexplore.ieee.org/document/8442547
 publication: '*2018 Power Systems Computation Conference (PSCC)*'
 doi: 10.23919/PSCC.2018.8442547
 ---

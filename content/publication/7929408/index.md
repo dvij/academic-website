@@ -14,7 +14,7 @@ tags:
   method;time-varying optimization
 categories: []
 date: '2017-00-01'
-lastmod: 2020-10-27T17:35:30Z
+lastmod: 2022-10-04T10:37:54-07:00
 featured: false
 draft: false
 
@@ -32,11 +32,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:33:32.354011Z'
+publishDate: '2022-10-04T17:37:54.661193Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Transactions on Smart Grid*'
-url_pdf: https://ieeexplore.ieee.org/document/7929408
 doi: 10.1109/TSG.2017.2704922
 ---

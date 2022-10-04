@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2020-10-27T17:35:31Z
+lastmod: 2022-10-04T10:37:56-07:00
 featured: false
 draft: false
 
@@ -29,11 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:33:34.098299Z'
+publishDate: '2022-10-04T17:37:56.485305Z'
 publication_types:
 - '1'
 abstract: ''
-url_pdf: https://arxiv.org/abs/1406.0554v1
 publication: '*Proceedings of the Thirtieth Conference Annual Conference on Uncertainty
   in Artificial Intelligence (UAI-14)*'
 ---

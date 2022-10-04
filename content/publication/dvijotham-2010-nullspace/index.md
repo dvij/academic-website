@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2010-01-01'
-lastmod: 2020-10-27T17:35:30Z
+lastmod: 2022-10-04T10:37:55-07:00
 featured: false
 draft: false
 
@@ -28,11 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-04T17:33:32.703310Z'
+publishDate: '2022-10-04T17:37:55.032273Z'
 publication_types:
 - '1'
 abstract: ''
-url_pdf: https://ieeexplore.ieee.org/abstract/document/5495918
 publication: '*2010 IEEE International Conference on Acoustics, Speech and Signal
   Processing*'
 ---
