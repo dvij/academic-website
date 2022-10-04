@@ -11,7 +11,7 @@ role: Staff Research Scientist, Google Research, Brain Team
 # Organizations/Affiliations
 organizations:
 - name: Google Research
-  url: "https://research.google.com"
+- url: "https://research.google.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are in developing safe and reliable AI systems. Specifically, I am actively working on the following topics
