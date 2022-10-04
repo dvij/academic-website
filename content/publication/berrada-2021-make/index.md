@@ -41,5 +41,6 @@ abstract: ''
 publication: '*Advances in Neural Information Processing Systems*'
 
 links:
-  - url: linhttps://proceedings.neurips.cc/paper/2021/hash/5c5bc7df3d37b2a7ea29e1b47b2bd4ab-Abstract.html
+- name: URL
+  url: https://openreview.net/forum?id=oAxm0Wz7Bv
 ---
