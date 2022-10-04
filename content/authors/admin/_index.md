@@ -6,20 +6,20 @@ title: Krishnamurthy (Dj) Dvijotham
 superuser: true
 
 # Role/position
-role: Staff Research Scientist, DeepMind
+role: Staff Research Scientist, Google Research, Brain Team
 
 # Organizations/Affiliations
 organizations:
-- name: DeepMind
-  url: "https://deepmind.com"
+- name: Google Research
+  url: "https://research.google.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in developing verifiable guarantees for complex systems, with a current focus on systems arising from deep learning
-
-interests:
+bio: My research interests are in developing safe and reliable AI systems. Specifically, I am actively working on the following topics:
 - Artificial Intelligence
-- Convex Optimization
+- Uncertainty Qunatification
 - Formal Verification
+- Differential Privacy
+- Human-AI Collaboration
 
 education:
   courses:
@@ -60,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-Krishnamurthy (Dj) Dvijotham is a staff research scientist at DeepMind. His research interests include developing formal techniques to reason about the behavior of complex systems, with a particular focus on systems built using deep learning.
+Krishnamurthy (Dj) Dvijotham is a staff research scientist at Google Brain. His research interests include developing safe and reliable AI systems.
