@@ -12,7 +12,7 @@ authors:
 - Pushmeet Kohli
 tags: []
 categories: []
-date: '2018-01-01'
+date: '2018-07-01'
 lastmod: 2022-10-04T12:17:52-07:00
 featured: true
 draft: false
