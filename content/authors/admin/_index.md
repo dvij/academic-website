@@ -14,7 +14,7 @@ organizations:
   url: "https://research.google.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in developing safe and reliable AI systems. Specifically, I am actively working on the following topics:
+bio: My research interests are in developing safe and reliable AI systems. Specifically, I am actively working on the following topics
 - Artificial Intelligence
 - Uncertainty Qunatification
 - Formal Verification
