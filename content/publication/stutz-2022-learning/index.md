@@ -11,7 +11,7 @@ authors:
 - Arnaud Doucet
 tags: []
 categories: []
-date: '2022-01-01'
+date: '2022-05-01'
 lastmod: 2022-10-04T12:17:44-07:00
 featured: true
 draft: false
@@ -34,7 +34,7 @@ publishDate: '2022-10-04T19:17:44.840445Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*International Conference on Learning Representations*'
+publication: '*International Conference on Learning Representations - 2022 (Spotlight)*'
 links:
 - name: URL
   url: https://openreview.net/forum?id=t8O-4LKFVx
