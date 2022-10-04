@@ -71,5 +71,3 @@ highlight_name: true
 
 Krishnamurthy (Dj) Dvijotham is a staff research scientist in the Brain team at Google Research. His research focuses on building safe, reliable and trustworthy AI, including concerns like privacy, uncertainty estimation, fairness and formal verifiability.
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
