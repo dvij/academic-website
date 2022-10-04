@@ -1,42 +1,43 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Krishnamurthy (Dj) Dvijotham
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Krishnamurthy
+last_name: Dj Dvijotham
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Staff Research Scientist, Google Research, Brain Team
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Google Research, Brain Team
+    url: https://research.google.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include safe and reliable machine learning, spanning security, privacy, uncertainty estimation and human-AI collaboration.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Differential Privacy
+  - Formal Verification
+  - Convex Optimiation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Computer Science and Engineering
+      institution: University of Washington, Seattle
+      year: 2014
+    - course: MS in Computer Science and Engineering
+      institution: University of Washington, Seattle
+      year: 2010
+    - course: Bachelors in Computer Science and Engineering
+      institution: Indian Institute of Technology Bombay
       year: 2008
 
 # Social/Academic Networking
@@ -47,15 +48,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=1tOFY1IAAAAJ&hl=en&authuser=2
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
