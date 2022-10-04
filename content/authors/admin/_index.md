@@ -53,11 +53,8 @@ social:
     link: https://scholar.google.com/citations?user=1tOFY1IAAAAJ&hl=en&authuser=2
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
+    link: https://github.com/dvij
+  
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
