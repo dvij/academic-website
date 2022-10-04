@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: A dual approach to scalable verification of deep networks
-subtitle: ''
+subtitle: 'Best paper award at UAI 2018'
 summary: ''
 authors:
 - Krishnamurthy Dvijotham
@@ -14,7 +14,7 @@ tags: []
 categories: []
 date: '2018-01-01'
 lastmod: 2022-10-04T12:17:52-07:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
