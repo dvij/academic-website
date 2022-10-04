@@ -36,5 +36,10 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Thirty-Fourth Conference Annual Conference on Uncertainty
-  in Artificial Intelligence (UAI-18)*'
+  in Artificial Intelligence (UAI-18) (Best Paper Award)*'
+  
+
+links:
+- name: URL
+  url: https://arxiv.org/abs/1803.06567
 ---
