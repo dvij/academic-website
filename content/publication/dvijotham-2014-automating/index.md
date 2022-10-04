@@ -5,10 +5,10 @@ title: Automating Stochastic Optimal Control
 subtitle: ''
 summary: ''
 authors:
-- Krishnamurthy Dvijotham*
+- Krishnamurthy Dvijotham
 tags: []
 categories: []
-date: '2014-03-14'
+date: '2014-01-01'
 lastmod: 2020-10-27T17:35:31Z
 featured: false
 draft: false
@@ -27,10 +27,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:31.005014Z'
+publishDate: '2022-10-04T17:22:37.954225Z'
 publication_types:
 - '7'
 abstract: ''
-url_pdf: 'https://digital.lib.washington.edu/researchworks/handle/1773/25359'
+url_pdf: https://digital.lib.washington.edu/researchworks/handle/1773/25359
 publication: ''
 ---

@@ -6,13 +6,13 @@ subtitle: ''
 summary: ''
 authors:
 - H. D. Nguyen
-- Krishnamurthy Dvijotham*
+- K. Dvijotham
 - K. Turitsyn
 tags:
-- '"Steady-state;Security;Optimization;Power systems;Mathematical model;Jacobian matrices;Uncertainty;Feasibility;OPF;inner
-  approximation;solvability;nonconvexity"'
+- Steady-state;Security;Optimization;Power systems;Mathematical model;Jacobian matrices;Uncertainty;Feasibility;OPF;inner
+  approximation;solvability;nonconvexity
 categories: []
-date: '2018-09-04'
+date: '2018-00-01'
 lastmod: 2020-10-27T17:35:28Z
 featured: false
 draft: false
@@ -31,11 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:28.347914Z'
+publishDate: '2022-10-04T17:22:35.707654Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Transactions on Power Systems*'
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8454506'
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8454506
 doi: 10.1109/TPWRS.2018.2868752
 ---

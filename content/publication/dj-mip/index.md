@@ -6,12 +6,12 @@ subtitle: ''
 summary: ''
 authors:
 - Vinod Nair
-- Krishnamurthy Dvijotham*
+- Krishnamurthy Dvijotham
 - Iain Dunning
 - Oriyol Vinyals
 tags: []
 categories: []
-date: '2018-07-20'
+date: '2018-01-01'
 lastmod: 2020-10-27T17:35:32Z
 featured: false
 draft: false
@@ -30,11 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:32.239837Z'
+publishDate: '2022-10-04T17:22:39.422202Z'
 publication_types:
 - '1'
 abstract: ''
-url_pdf: 'http://auai.org/uai2018/proceedings/papers/217.pdf'
-publication: '*Proceedings of the Thirty-Fourth Conference Annual Conference on Uncertainty
-  in Artificial Intelligence (UAI-18)*'
+url_pdf: auai.org/uai2018/proceedings/papers/217.pdf
+publication: '*Proceedings of the Thirty-Fourth Conference on Uncertainty in Artificial
+  Intelligence, UAI 2018, Monterrey, California, USA, August 6-9, 2018*'
 ---

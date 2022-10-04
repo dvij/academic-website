@@ -9,12 +9,12 @@ authors:
 - Po-Sen Huang
 - Robert Stanforth
 - Sven Gowal
-- Krishnamurthy (Dj) Dvijotham
+- Krishnamurthy Dj Dvijotham
 - Martin Szummer
 - Pushmeet Kohli
 tags: []
 categories: []
-date: '2020-05-20'
+date: '2020-01-01'
 lastmod: 2020-10-27T17:35:29Z
 featured: false
 draft: false
@@ -33,10 +33,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:29.405103Z'
+publishDate: '2022-10-04T17:22:34.090228Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*International Conference on Learning Representations, 2020*'
+publication: '*International Conference on Learning Representations*'
 url_pdf: https://openreview.net/forum?id=SyxhVkrYvr
 ---

@@ -6,11 +6,14 @@ subtitle: ''
 summary: ''
 authors:
 - Y. Tang
-- Krishnamurthy Dvijotham
+- K. Dvijotham
 - S. Low
-tags: []
+tags:
+- Computational modeling;Cost function;Heuristic algorithms;Mathematical model;Power
+  system stability;Reactive power;Real-time systems;Optimal power flow;quasi-Newton
+  method;time-varying optimization
 categories: []
-date: '2017-05-16'
+date: '2017-00-01'
 lastmod: 2020-10-27T17:35:30Z
 featured: false
 draft: false
@@ -29,11 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:29.937535Z'
+publishDate: '2022-10-04T17:22:36.313775Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Transactions on Smart Grid*'
-url_pdf: 'https://ieeexplore.ieee.org/document/7929408'
+url_pdf: https://ieeexplore.ieee.org/document/7929408
 doi: 10.1109/TSG.2017.2704922
 ---

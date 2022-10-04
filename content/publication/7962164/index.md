@@ -5,12 +5,14 @@ title: Solvability regions of affinely parameterized quadratic equations
 subtitle: ''
 summary: ''
 authors:
-- Krishnamurthy Dvijotham*
+- K. Dvijotham
 - H. Nguyen
 - K. Turitsyn
-tags: []
+tags:
+- Jacobian matrices;Mathematical model;Optimization;Power grids;Uncertainty;Wind forecasting;Optimization;Robust
+  control;Stability of nonlinear systems;Uncertain systems.
 categories: []
-date: '2017-06-29'
+date: '2017-00-01'
 lastmod: 2020-10-27T17:35:29Z
 featured: false
 draft: false
@@ -29,11 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:29.583950Z'
+publishDate: '2022-10-04T17:22:36.067342Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Control Systems Letters*'
-url_pdf: 'https://ieeexplore.ieee.org/document/7962164'
+url_pdf: https://ieeexplore.ieee.org/document/7962164
 doi: 10.1109/LCSYS.2017.2721380
 ---

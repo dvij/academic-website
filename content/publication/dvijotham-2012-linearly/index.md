@@ -5,11 +5,11 @@ title: Linearly solvable Markov games
 subtitle: ''
 summary: ''
 authors:
-- Krishnamurthy Dvijotham*
+- Krishnamurthy Dvijotham
 - Emo Todorov
 tags: []
 categories: []
-date: '2012-06-29'
+date: '2012-01-01'
 lastmod: 2020-10-27T17:35:30Z
 featured: false
 draft: false
@@ -28,10 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:30.827771Z'
+publishDate: '2022-10-04T17:22:36.886451Z'
 publication_types:
 - '1'
 abstract: ''
-url_pdf: 'https://ieeexplore.ieee.org/document/6315632'
+url_pdf: https://ieeexplore.ieee.org/document/6315632
 publication: '*2012 American Control Conference (ACC)*'
 ---

@@ -5,11 +5,11 @@ title: A nullspace analysis of the nuclear norm heuristic for rank minimization
 subtitle: ''
 summary: ''
 authors:
-- Krishnamurthy Dvijotham*
+- Krishnamurthy Dvijotham
 - Maryam Fazel
 tags: []
 categories: []
-date: '2010-03-14'
+date: '2010-01-01'
 lastmod: 2020-10-27T17:35:30Z
 featured: false
 draft: false
@@ -28,11 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:30.466595Z'
+publishDate: '2022-10-04T17:22:36.657902Z'
 publication_types:
 - '1'
 abstract: ''
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/5495918'
+url_pdf: https://ieeexplore.ieee.org/abstract/document/5495918
 publication: '*2010 IEEE International Conference on Acoustics, Speech and Signal
   Processing*'
 ---

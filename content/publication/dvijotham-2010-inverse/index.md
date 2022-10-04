@@ -5,11 +5,11 @@ title: Inverse optimal control with linearly-solvable MDPs
 subtitle: ''
 summary: ''
 authors:
-- Krishnamurthy Dvijotham*
+- Krishnamurthy Dvijotham
 - Emanuel Todorov
 tags: []
 categories: []
-date: '2010-07-10'
+date: '2010-01-01'
 lastmod: 2020-10-27T17:35:28Z
 featured: false
 draft: false
@@ -28,11 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:28.706744Z'
+publishDate: '2022-10-04T17:22:35.949460Z'
 publication_types:
 - '1'
 abstract: ''
-url_pdf: 'https://openreview.net/forum?id=BJEwwj-dbS'
+url_pdf: https://openreview.net/forum?id=BJEwwj-dbS
 publication: '*Proceedings of the 27th International Conference on Machine Learning
   (ICML-10)*'
 ---

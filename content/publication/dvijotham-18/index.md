@@ -5,7 +5,7 @@ title: A dual approach to scalable verification of deep networks
 subtitle: ''
 summary: ''
 authors:
-- Krishnamurthy Dvijotham*
+- Krishnamurthy Dvijotham
 - Robert Stanforth
 - Sven Gowal
 - Timothy Mann
@@ -14,7 +14,7 @@ tags: []
 categories: []
 date: '2018-01-01'
 lastmod: 2020-10-27T17:35:32Z
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -31,11 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:32.065291Z'
+publishDate: '2022-10-04T17:22:39.291103Z'
 publication_types:
 - '1'
 abstract: ''
-url_pdf: 'https://arxiv.org/abs/1803.06567'
+url_pdf: https://arxiv.org/abs/1803.06567
 publication: '*Proceedings of the Thirty-Fourth Conference Annual Conference on Uncertainty
-  in Artificial Intelligence (UAI-18)*, **Best paper award**'
+  in Artificial Intelligence (UAI-18)*'
 ---

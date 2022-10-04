@@ -5,7 +5,7 @@ title: 'Error bounds on the DC power flow approximation: A convex relaxation app
 subtitle: ''
 summary: ''
 authors:
-- Krishnamurthy Dvijotham*
+- K. Dvijotham
 - D. Molzahn
 tags: []
 categories: []
@@ -28,10 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:31.714935Z'
+publishDate: '2022-10-04T17:22:39.063101Z'
 publication_types:
 - '1'
 abstract: ''
-url_pdf: 'https://ieeexplore.ieee.org/document/7798623'
+url_pdf: https://ieeexplore.ieee.org/document/7798623
 publication: '*2016 55th IEEE Conference on Decision and Control (CDC)*'
 ---

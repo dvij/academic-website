@@ -6,12 +6,15 @@ subtitle: ''
 summary: ''
 authors:
 - N. Azizan Ruhi
-- Krishnamurthy Dvijotham*
+- K. Dvijotham
 - N. Chen
 - A. Wierman
-tags: []
+tags:
+- Electricity supply industry;Energy resources;ISO;Optimization;Power measurement;Power
+  systems;Real-time systems;Aggregators;locational marginal price (LMP);market power;optimal
+  curtailment;renewables
 categories: []
-date: '2017-04-13'
+date: '2017-00-01'
 lastmod: 2020-10-27T17:35:31Z
 featured: false
 draft: false
@@ -30,11 +33,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:31.530336Z'
+publishDate: '2022-10-04T17:22:38.937980Z'
 publication_types:
 - '2'
 abstract: ''
-url_pdf: 'https://ieeexplore.ieee.org/document/7898782'
+url_pdf: https://ieeexplore.ieee.org/document/7898782
 publication: '*IEEE Transactions on Smart Grid*'
 doi: 10.1109/TSG.2017.2694043
 ---

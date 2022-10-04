@@ -7,8 +7,15 @@ summary: ''
 authors:
 - S. Misra
 - D. K. Molzahn
-- Krishnamurthy Dvijotham
-tags: []
+- K. Dvijotham
+tags:
+- approximation theory;iterative methods;linearisation techniques;load flow;minimisation;optimisation;optimal
+  adaptive linearizations;AC power flow equations;control problems;optimal power flow
+  problems;general linearization techniques;power systems literature;linear approximation;adaptive
+  linearization;nonlinear power flow equations;optimization algorithm;worst-case error
+  minimisation;linearization techniques;constraint generation algorithm;first-order
+  Taylor approximation;Mathematical model;Reactive power;Optimization;Linear approximation;Approximation
+  algorithms;Load flow
 categories: []
 date: '2018-06-01'
 lastmod: 2020-10-27T17:35:28Z
@@ -29,11 +36,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:28.524859Z'
+publishDate: '2022-10-04T17:22:35.828506Z'
 publication_types:
 - '1'
 abstract: ''
-url_pdf: 'https://ieeexplore.ieee.org/document/8442547'
+url_pdf: https://ieeexplore.ieee.org/document/8442547
 publication: '*2018 Power Systems Computation Conference (PSCC)*'
 doi: 10.23919/PSCC.2018.8442547
 ---

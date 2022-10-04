@@ -5,12 +5,12 @@ title: Convergence of incentive-driven dynamics in Fisher markets
 subtitle: ''
 summary: ''
 authors:
-- Krishnamurthy Dvijotham*
+- Krishnamurthy Dvijotham
 - Yuval Rabani
 - Leonard Schulman
 tags: []
 categories: []
-date: '2017-01-10'
+date: '2017-01-01'
 lastmod: 2020-10-27T17:35:31Z
 featured: false
 draft: false
@@ -29,11 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:31.357558Z'
+publishDate: '2022-10-04T17:22:38.822425Z'
 publication_types:
 - '1'
 abstract: ''
-url_pdf: 'https://authors.library.caltech.edu/74305/'
+url_pdf: https://authors.library.caltech.edu/74305/
 publication: '*Proceedings of the Twenty-Seventh Annual ACM-SIAM Symposium on Discrete
   Algorithms, SODA 2017, Barcelona, Spain, January 10-12, 2017*'
 ---

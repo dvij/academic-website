@@ -5,14 +5,14 @@ title: Universal Convexification via Risk-Aversion
 subtitle: ''
 summary: ''
 authors:
-- Krishnamurthy Dvijotham*
+- Krishnamurthy Dvijotham
 - Maryam Fazel
 - Emanuel Todorov
 tags: []
 categories: []
-date: '2014-07-10'
+date: '2014-01-01'
 lastmod: 2020-10-27T17:35:31Z
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -29,11 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:31.179092Z'
+publishDate: '2022-10-04T17:22:38.078232Z'
 publication_types:
 - '1'
 abstract: ''
-url_pdf: 'https://arxiv.org/abs/1406.0554v1'
+url_pdf: https://arxiv.org/abs/1406.0554v1
 publication: '*Proceedings of the Thirtieth Conference Annual Conference on Uncertainty
-  in Artificial Intelligence (UAI-14)*, **Facebook best student paper award**'
+  in Artificial Intelligence (UAI-14)*'
 ---

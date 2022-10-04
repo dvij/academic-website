@@ -6,14 +6,14 @@ subtitle: ''
 summary: ''
 authors:
 - H. D. Nguyen
-- Krishnamurthy Dvijotham*
+- K. Dvijotham
 - S. Yu
 - K. Turitsyn
 tags:
-- '"Power system stability;Numerical stability;Stability criteria;Thermal stability;Smart
-  grids;Indexes;Inner approximation;power flow;voltage stability."'
+- Power system stability;Numerical stability;Stability criteria;Thermal stability;Smart
+  grids;Indexes;Inner approximation;power flow;voltage stability.
 categories: []
-date: '2018-09-06'
+date: '2018-00-01'
 lastmod: 2020-10-27T17:35:28Z
 featured: false
 draft: false
@@ -32,11 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:28.165595Z'
+publishDate: '2022-10-04T17:22:35.581743Z'
 publication_types:
 - '2'
 abstract: ''
-url_pdf: 'https://ieeexplore.ieee.org/document/8456591'
+url_pdf: https://ieeexplore.ieee.org/document/8456591
 publication: '*IEEE Transactions on Smart Grid*'
 doi: 10.1109/TSG.2018.2869032
 ---

@@ -5,14 +5,14 @@ title: Graphical models for optimal power flow
 subtitle: ''
 summary: ''
 authors:
-- Krishnamurthy Dvijotham*
+- Krishnamurthy Dvijotham
 - Michael Chertkov
 - Pascal Van Hentenryck
 - Marc Vuffray
 - Sidhant Misra
 tags: []
 categories: []
-date: '2016-09-13'
+date: '2016-01-01'
 lastmod: 2020-10-27T17:35:32Z
 featured: false
 draft: false
@@ -31,10 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T17:35:31.888947Z'
+publishDate: '2022-10-04T17:22:39.177512Z'
 publication_types:
 - '2'
 abstract: ''
-url_pdf: 'https://link.springer.com/article/10.1007/s10601-016-9253-y'
-publication: '*Constraints Journal*'
+url_pdf: https://link.springer.com/article/10.1007/s10601-016-9253-y
+publication: '*Constraints*'
 ---
